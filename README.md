@@ -1,2 +1,3 @@
 # Wav2Vec2
-Fine Tuned Wav2Vec2 on Common Voice Turkish
+**Objective**:
+The objective is to perform Automatic Speech Recognition using wav2vec2 . The Model decodes the audio into text 
