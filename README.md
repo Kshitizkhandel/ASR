@@ -10,12 +10,16 @@ and compare the results
 
 ### Methods Used
 * Machine Learning
-* Data Visualization
+* Data Pre-Processing
 
 ### Libraries
 * Pytorch
 * Transformers
 * Librosa
 * Jiwer
+
+### Results:
+Whisper-small gives a WER of 22% (max-train steps 1500)
+Wav2Vec2 xls-r-300m gives a WER of 32%(num-epochs:30)
 
 
