@@ -1,5 +1,5 @@
 
-#Wav2Vec2/Whsiper Fine-Tuning
+#Wav2Vec2/Whisper Fine-Tuning
 
 #### -- Project Status: [Completed]
 
