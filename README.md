@@ -4,7 +4,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Objective
-The objective is to fine-tune state of the art architectures Wav2-Vec2 and Whisper on Common Voice Turkish dataset
+The objective is to fine-tune state of the art architectures Wav2Vec2 and Whisper on Common Voice Turkish dataset
 and compare the results
 
 
